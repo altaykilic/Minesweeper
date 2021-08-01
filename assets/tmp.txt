@@ -1,3 +1,1 @@
-temporary file
-
-will be deleted in a moment
+Well I don't know how to upload non-text files through GitHub's web UI. I will upload the required .png and .mp3 files if I find a way to do it.
